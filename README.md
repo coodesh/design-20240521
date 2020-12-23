@@ -18,7 +18,7 @@ O seu objetivo é criar um projeto que dê atenção aos requisitos anteriorment
 
 ## Passo a Passo
 
-Neste desafio trabalhamos na elaboração de uma estrutura inicial do Design System e no desenvolvimento de dois protótipos mobile e web das telas do projeto de e-commerce da um Cliente da Trevo Digital.
+Neste desafio trabalhamos na elaboração de uma estrutura inicial do Design System e no desenvolvimento de dois protótipos mobile e web das telas do projeto de e-commerce de um novo Cliente da Trevo Digital.
 
 Antes de começar a trabalhar, a equipe de análises e requisitos desenvolveu o WireFrame inicial da versão mobile do projeto:
 
