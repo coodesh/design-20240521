@@ -57,8 +57,8 @@ Alguns elementos importantes que temos na versão mobile:
 
 ### Extras
 
-- **Diferencial 1** Criar a proposta visual do Single de produto
-- **Diferencial 2** Prototipar o Modal de valoração na versão Desktop
+- **Diferencial 1** Criar a proposta visual da tela de detalhes de produto
+- **Diferencial 2** Prototipar o Modal de avaliação na versão Desktop
 
 ## Readme do Repositório
 
@@ -83,4 +83,4 @@ Após essa etapa será marcado a apresentação/correção do projeto.
 
 ## Suporte
 
-Use o nosso canal no slack: http://bit.ly/32CuOMy para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com.
+Use a [nossa comunidade](https://coodesh.com/desenvolvedores#community) para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com.
