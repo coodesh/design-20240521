@@ -6,6 +6,11 @@ Este é um desafio para testar seus conhecimentos de Design e Prototipação;
 
 Neste desafio existem várias formas de desenvolver e obter os resultados propostos. O objetivo é avaliar a sua forma de estruturação e autonomia em decisões para construir algo escalável.
 
+### Antes de começar
+
+- Considere como deadline 5 dias a partir do início do desafio. Caso tenha sido convidado a realizar o teste e não seja possível concluir dentro deste período, avise a pessoa que o convidou para receber instruções sobre o que fazer.
+- Documentar todo o processo de investigação para o desenvolvimento da atividade; os resultados destas tarefas são tão importantes do que o seu processo de pensamento e decisões à medida que as completa, por isso tente documentar e apresentar os seus hipóteses e decisões na medida do possível.
+
 ## Desafio / Case
 
 A empresa Trevo Digital atua com diversos clientes a nível global em mais de 15 países, uma das principais características da empresa é o forte posicionamento no setor digital com uma equipe focada na geração de leads de qualidade.
