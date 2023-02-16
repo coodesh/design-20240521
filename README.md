@@ -63,29 +63,25 @@ Alguns elementos importantes que temos na versão mobile:
 ### Extras
 
 - **Diferencial 1** Criar a proposta visual da tela de detalhes de produto
-- **Diferencial 2** Prototipar o Modal de avaliação na versão Desktop
+- **Diferencial 2** Prototipar o Modal de avaliação na versão Desktop  
 
-## Readme do Repositório
+## Finalização e Instruções para a Apresentação
 
-- Deve conter o título do projeto
-- Uma descrição de uma frase
-- Instruções em geral e arquivos finais do projeto
-- Capturas do resultado final do Projeto
-- Link para acessar o projeto em caso que tenha sido utilizado um sistema Online.
-- Não esqueça o [.gitignore](https://www.toptal.com/developers/gitignore)
+Avisar sobre a finalização e enviar para correção.
 
-## Finalização
-
-Avisar sobre a finalização e enviar para correção em: [https://coodesh.com/review-challenge](https://coodesh.com/review-challenge)
-Após essa etapa será marcado a apresentação/correção do projeto.
-
-## Instruções para a Apresentação:
-
-1. Será necessário compartilhar a tela durante a vídeo chamada;
-2. Deixe todos os projetos de solução previamente abertos em seu computador antes de iniciar a chamada;
-3. Prepara-se pois você será questionado sobre cada etapa e decisão do Challenge;
-4. Prepare uma lista de perguntas, dúvidas, sugestões de melhorias e feedbacks (caso tenha).
+1. Confira se você respondeu o Scorecard anexado na Vaga que se candidatou;
+2. Confira se você respondeu o Mapeamento anexado na Vaga que se candidatou;
+3. Acesse [https://coodesh.com/challenges/review](https://coodesh.com/challenges/review);
+4. Adicione o repositório com a sua solução;
+5. Grave um vídeo, utilizando o botão na tela de solicitar revisão da Coodesh, com no máximo 5 minutos, com a apresentação do seu projeto. Utilize o tempo para:
+- Explicar o objetivo do desafio
+- Quais tecnologias foram utilizadas
+- Foque em pontos obrigatórios e diferenciais quando for apresentar.
+6. Adicione o link da apresentação do seu projeto no README.md.
+7. Verifique se o Readme está bom e faça o commit final em seu repositório;
+8. Confira a vaga desejada;
+9. Envie e aguarde as instruções para seguir no processo. Sucesso e boa sorte. =)
 
 ## Suporte
 
-Use a [nossa comunidade](https://coodesh.com/desenvolvedores#community) para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com.
+Use a [nossa comunidade](https://discord.gg/rdXbEvjsWu) para tirar dúvidas sobre o processo ou envie uma mensagem diretamente a um especialista no chat da plataforma. 
